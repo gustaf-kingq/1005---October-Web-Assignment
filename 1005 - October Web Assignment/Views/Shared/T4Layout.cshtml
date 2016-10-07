@@ -3,18 +3,49 @@
 <html>
 <head>
     <meta name="viewport" content="width=device-width" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
     <link href="~/Content/bootstrap-theme.css" rel="stylesheet" />
     <link href="~/Content/bootstrap.css" rel="stylesheet" />
     <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
 
     <title>Index</title>
+
+    <style>
+        .container {
+
+        }
+        div_header {
+
+        }
+        .jumbotron {
+            background-color: #2E2D88;
+            color: white;
+        }
+    </style>
+
 </head>
 <body>
     <div class="container">
+        <div class="div_header">
+            <h1>This is all written from a Youtube tutorial.</h1>
+        </div>
+        <div class="jumbotron">
+            <p>Blerple perpleBlerple perpleBlerple perpleBlerple perpleBlerple perpleBlerple perpleBlerple perpleBlerple 
+            perpleBlerple perpleBlerple perpleBlerple perpleBlerple perpleBlerple perpleBlerple perpleBlerple perpleBlerple 
+            perpleBlerple perpleBlerple perpleBlerple perpleBlerple perpleBlerple perpleBlerple perpleBlerple perpleBlerple 
+            perpleBlerple perpleBlerple perpleBlerple perpleBlerple perpleBlerple perpleBlerple perpleBlerple perpleBlerple 
+            perpleBlerple perpleBlerple perpleBlerple perpleBlerple perpleBlerple perpleBlerple perpleBlerple perpleBlerple 
+            perpleBlerple perple</p>
+            <p>
+                <a href="#" class="btn btn-default btn-lg" role="button">More</a>
+            </p>
+            <button type="submit" class="btn btn-danger" role="button">Button</button>
+            <input type="button" value="Info" class="btn btn-info"/>
+        </div>
         @RenderBody()
         <footer>
-            <p>(c) Team T4 2016</p>
+            <p>This will appear at the bottom. Like an (c) thing or something.</p>
         </footer>
     </div>
 
