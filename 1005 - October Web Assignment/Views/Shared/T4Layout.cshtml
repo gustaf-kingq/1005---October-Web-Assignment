@@ -1,29 +1,28 @@
 ﻿<!DOCTYPE html>
-
+@*Used this youtube tutorial for plenty of help: https://www.youtube.com/watch?v=gqOEoUR5RHg*@
 <html>
 <head>
     <meta name="viewport" content="width=device-width" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
-    <link href="~/Content/bootstrap-theme.css" rel="stylesheet" />
-    <link href="~/Content/bootstrap.css" rel="stylesheet" />
-    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
-
     <title>Index</title>
 
     <style>
-        .container {
+        body {
+            background-color: #000000;
+        }
 
+        .container {
+            background-color: #FFFF00;
         }
         div_header {
-
+            background-color: #FF0000;
         }
         .jumbotron {
-            background-color: #2E2D88;
-            color: white;
+            background-color: #00FF00;
+            color: yellow;
         }
     </style>
-
 </head>
 <body>
     <div class="container">
@@ -39,15 +38,37 @@
             perpleBlerple perple</p>
             <p>
                 <a href="#" class="btn btn-default btn-lg" role="button">More</a>
+
+                <button type="submit" class="btn btn-danger" role="button">Button</button>
+                <input type="button" value="Info" class="btn btn-info" />
+                <button type="submit" class="btn-primary btn-sm">Primary</button>
+                <button type="submit" class="btn btn-success btn-xs">Success</button>
+                <button type="submit" class="btn btn-warning btn-lg">Warning</button>
+                <button type="submit" class="btn btn-link btn-lg">Link</button>
+
+                <button type="button" class="btn btn-lg btn-primary" disabled="disabled">Primary</button>
+                <a href="#" class="btn btn-default btn-lg disabled" role="button">Link</a>
+
+                <div class="btn-group btn-group-lg" role="group">
+                    <button type="button" class="btn btn-default">Small</button>
+                    <button type="button" class="btn btn-default">Medium</button>
+                    <button type="button" class="btn btn-default">Large</button>
+                </div>
             </p>
-            <button type="submit" class="btn btn-danger" role="button">Button</button>
-            <input type="button" value="Info" class="btn btn-info"/>
         </div>
         @RenderBody()
         <footer>
             <p>This will appear at the bottom. Like an (c) thing or something.</p>
         </footer>
     </div>
+
+    @*Added the CSS links*@
+    <link href="~/Content/bootstrap-theme.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    @*Added the JS links*@
+    <script src="~/scripts/bootstrap.min.js"></script>
+    <script src="~/scripts/jquery-1.9.1.min.js"></script>
 
 </body>
 </html>
