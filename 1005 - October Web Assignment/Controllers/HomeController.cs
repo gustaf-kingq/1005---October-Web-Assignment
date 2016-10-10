@@ -38,8 +38,13 @@ namespace _1005___October_Web_Assignment.Controllers
                 Description = "I can play guitar pretty good. A lesser hobby but preferable over programming.",
                 Period = "2011-"
             });
+            MyExperienceList.Add(new Experience()
+            {
+                Title = "Controller-ist",
+                Description = "If playing guitar wasn't useless enough, I have developed the talent of playing Guitar Hero flawlessly with an xbox 360 controller.",
+                Period = "2011-"
+            });
         }
-        // GET: Home
         public ActionResult Index()
         {
             return View();
