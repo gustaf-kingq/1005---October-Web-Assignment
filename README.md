@@ -16,6 +16,8 @@ We assignment for use in October.
 
 - Working with others on the other hand feels natural as I can present great people skills. Although I'm not the first to step to the plate to lead a project, I would be lending ideas and suggestions as much as anyone and give a voice of reason if a sign of spite shows in the group.
 
+- Fast writer. If I'm in charge of having something written down, It'll be done in a flash as my typing speed is above average, in my own opinion. 
+
 - I can play guitar too but doubt that'd be that big of a strength.
 
 ### What has the highest priority to you during work?:
