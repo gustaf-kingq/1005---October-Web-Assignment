@@ -9,7 +9,7 @@ namespace _1005___October_Web_Assignment.Controllers
 {
     public class HomeController : Controller
     {
-        private List<Experience> MyExperienceList;
+        List<Experience> MyExperienceList;
 
         public HomeController()
         {
