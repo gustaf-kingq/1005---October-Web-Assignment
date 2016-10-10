@@ -5,4 +5,14 @@
 }
 
 <h2>About</h2>
+<hr />
+<h3>My experiences: </h3>
+
+<ul>
+    @foreach (var item in Model)
+    {
+        <li>@item.Title | @item.Description | @item.Period</li>
+    }
+</ul>
+
 
