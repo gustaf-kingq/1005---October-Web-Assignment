@@ -32,6 +32,4 @@ We assignment for use in October.
 - On one hand, having employees following similar attributes to each other would mean a standing dependability with tasks that any employed could accomplish. On the other hand, having a deverse cast of employees with different abilities could develop combinations of their skills and with good morale result in an outstanding cooperation and dependability on each other.
 
 4: Validate a connection between an object model (containing A: a class that will represent a need of something (), B: an usage of the class in reality() and C: the ones who'd benefit from this ()) and 2-3:
-
-Examples for object models {((0)(1)(2), class, usage in reality, who that'd please)}:
-- 
+- That will be presented in code, not here.
