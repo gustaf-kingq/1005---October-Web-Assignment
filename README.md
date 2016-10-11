@@ -1,7 +1,8 @@
-# 1005---October-Web-Assignment
-We assignment for use in October.
+# October-Web-Assignment - Since October 5th
 
 1: Explain the site's purpose:
+### Purpose of Site
+- The purpose of this site is for employers to get a clear picture of my person and give info regarding my experiences, talents, skills, abilities, strengths and weaknesses that would garuantee benefit in a company's workplace. For good measure I've also added trivial talents since I consider myself a "jack of all trades, master of none" meaning that I'm educated within IT but that's hardly my strongest skill. Instead, it's having a multitude of various abilities.
 
 2: Answer questions you'd think an employer would ask:
 ### Tell a little about yourself:
