@@ -8,7 +8,7 @@
 - With originally just a color scheme of black and orange, Newgrounds today is more vivid than ever. You can watch animations, clips, play flashgames, listen to custom music, watch art or submit your own media all with cool colors wherever you look. It hosts a log in system for accounts and forums as well as submitters and is truly a site for the artistic, even more so than DeviantArt.
 
 ##### AllDay (http://www.allday.com) The Most Interesting
-- A very modern look without being too up-in-your-face. The home view is beautifully designed and hosts images and news titles the catches the interest of the curious (sounds like any news site) intellectual (that's better). Although a slight overuse of padding can be seen in all news articles, the navbar has categories for any reader, granting they can read, of course. I just accidentally got stuck for a few minutes looking for more to comment. Therefore I dub this sight, for such compliance with it's demographic and usage, The Most Interesting.
+- A very modern look without being too up-in-your-face. The home view is beautifully designed and hosts images and news titles the catches the interest of the curious (sounds like any news site) intellectual (that's better). Although a slight overuse of padding can be seen in all news articles, the navbar has categories for any reader, granting they can read, of course. the design is synergic and has elements that are grouped and aligned in a way that makes for a smoother and prettier experience. I just accidentally got stuck for a few minutes looking for more to comment. Therefore I dub this sight, for such compliance with it's demographic and usage, The Most Interesting.
 
 
 ### Three poorly-built websites:
