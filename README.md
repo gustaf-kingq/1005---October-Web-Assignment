@@ -1,7 +1,7 @@
 # October-Web-Assignment - Since October 5th
 
 1: Explain the site's purpose:
-### Purpose of Site
+### Purpose of Site:
 - The purpose of this site is for employers to get a clear picture of my person and give info regarding my experiences, talents, skills, abilities, strengths and weaknesses that would garuantee benefit in a company's workplace. For good measure I've also added trivial talents since I consider myself a "jack of all trades, master of none" meaning that I'm educated within IT but that's hardly my strongest skill. Instead, it's having a multitude of various abilities.
 
 2: Answer questions you'd think an employer would ask:
@@ -35,4 +35,4 @@
 - On one hand, having employees following similar attributes to each other would mean a standing dependability with tasks that any employed could accomplish. On the other hand, having a deverse cast of employees with different abilities could develop combinations of their skills and with good morale result in an outstanding cooperation and dependability on each other.
 
 4: Validate a connection between an object model (containing A: a class that will represent a need of something (), B: an usage of the class in reality() and C: the ones who'd benefit from this ()) and 2-3:
-- That will be presented in code, not here.
+- As it will be better viewed from the site itself, I've used five experiences, some more substansial than others with the three properties title, description and period.
